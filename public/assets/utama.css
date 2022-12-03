@@ -1,0 +1,19 @@
+.carousel {
+    width:auto;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px !important;
+}
+
+.carousel img {
+    border-radius: 12px;
+}
+
+.btn-success{
+    background-color: #967E76 !important;
+}
+.card {
+    margin-right: 50px;
+    margin-left: 50px;
+}

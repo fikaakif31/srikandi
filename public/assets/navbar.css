@@ -1,0 +1,41 @@
+.navbar-expand-lg {
+    font-size: 17px;
+    background-color: #f4f4f4 !important;
+    padding-right: 10px;
+    margin: 0;
+    border-color: #3C2317 !important;
+}
+
+.bi-cart-fill {
+    width: 50px;
+    color: gray;
+    position:static;
+    padding-right: 10px;
+}
+
+.btn {
+    margin-right: 5px;
+}
+
+.btn-light {
+    background-color: #967E76;
+    border-color: #967E76 !important;
+    color: #fff;
+}
+
+.btn-outline-light {
+   border-color: #967E76 !important;
+   color: #967E76;
+
+}
+
+.btn:hover {
+    color: #3C2317;
+    background-color: #EEE3CB;
+}
+
+
+.carousel {
+    width: 1200px;
+}
+
